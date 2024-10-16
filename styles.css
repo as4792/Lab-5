@@ -1,0 +1,85 @@
+.box{
+    background-color: red;
+    height: 200px;
+    width: 300px;
+}
+
+.responsive-box{
+    background-color: blue;
+    width: 50vw;
+    height: 50vh;
+}
+
+.padded-text{
+    background-color: brown;
+    padding: 20px;
+}
+
+.custom-padding{
+    background-color: aquamarine;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.border-box{
+    border:2px solid black
+}
+
+.rounded-border{
+    background-color: hotpink;
+    border: 3px dotted black;
+    border-radius: 15px;
+}
+
+.margin-text{
+    background-color: orange;
+    margin: 30px;
+}
+
+.custom-margin{
+    background-color: purple;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.inline-element{
+    background-color: plum;
+    display: inline;
+}
+
+.block-element{
+    background-color: greenyellow;
+    display: block;
+}
+
+.inline-block-element{
+    background-color: darkblue;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+}
+
+.hidden-element{
+    display: none;
+    background-color: black;
+}
+
+.visible-element{
+    background-color: rgb(182, 107, 189);
+    visibility: visible;
+
+}
+
+.invisible-element{
+background-color: darkred;
+visibility: hidden;
+}
+
+.transparent-box{
+    background-color: blue;
+    opacity: 0.5;
+}
